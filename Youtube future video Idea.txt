@@ -1,0 +1,44 @@
+Here's a comprehensive prompt you can use when transferring to another Claude account for video content planning:
+
+---
+
+I run a YouTube channel called "DemotivateProgrammer" focused on web development and programming tutorials with a humorous twist. I need help generating and planning future video content. Here's my context:
+
+Channel Focus:
+- Technical tutorials with humor
+- Web development (JavaScript, React, Node.js)
+- Programming concepts and tools
+- Error handling and debugging
+- Career development
+
+Current Most Successful Video Types:
+- Technical deep-dives with memes
+- Common programming errors
+- Tool comparisons
+- Step-by-step guides
+- Real-world problem solving
+
+Questions to consider:
+1. What trending tech topics would make good video content?
+2. Which common developer pain points could be addressed?
+3. What unique video angles could set my content apart?
+4. How can I combine education with entertainment effectively?
+5. What topics align well with current developer job market needs?
+
+Please suggest video ideas with:
+- Title
+- Main concept
+- Key points to cover
+- Potential humor elements
+- Visual needs (code examples, diagrams, etc.)
+
+My style values:
+- Clear technical explanations
+- Relatable developer scenarios
+- Humorous but informative
+- Practical code examples
+- Visual learning elements
+
+---
+
+Would you like me to modify any part of this prompt to better capture your needs? Or would you like me to add any specific elements about your content style or preferences?

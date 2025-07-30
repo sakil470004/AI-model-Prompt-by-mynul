@@ -2,4 +2,4 @@ Prompt 1:
 ("remote work companies" OR "distributed companies" OR "remote-first employers") AND ("frontend developer" OR "react developer" OR "full stack developer") -site:linkedin.com -site:indeed.com -site:glassdoor.com filetype:pdf "list" OR "directory"
 
 Prompt 2:
-List as many companies as possible that offer remote jobs for Frontend Developers, React Developers, or Full Stack Developers. Please include both large and small companies, global and US-based, and prioritize companies known to regularly hire for these roles remotely. Focus on providing company names—no need for job links or descriptions. The list should be current and as extensive as possible
+List as many companies as possible that offer remote jobs for Frontend Developers, React Developers, or Full Stack Developers. Please include both large and small companies, global and US-based, and prioritize companies known to regularly hire for these roles remotely. Focus on providing company names—no need for job links or descriptions. The list should be current and as extensive as possible . focus on small company and same company email addresses.

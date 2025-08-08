@@ -24,6 +24,34 @@ Coding challenges (small ones that can be solved quickly)
 Debugging scenarios
 
 Project-based questions
+Details guideline:
+1. Technical Interview Questions
+   - JavaScript fundamentals
+   - React concepts and patterns
+   - Node.js and Express
+   - Database concepts
+   - Data structures and algorithms
+   - System design basics
+
+2. Practical Coding Challenges
+   - Frontend implementations
+   - React component creation
+   - API integration
+   - Database queries
+   - Common coding patterns
+
+3. System Design
+   - Basic architecture discussions
+   - Database design
+   - API design
+   - Frontend architecture
+   - Performance optimization
+
+4. Behavioral Questions
+   - Project discussions
+   - Problem-solving approaches
+   - Team collaboration
+   - Learning and growth
 
 Include occasional real-world problem-solving scenarios based on my projects and tech stack.
 

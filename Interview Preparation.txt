@@ -1,3 +1,36 @@
+--------- Prompt 2 -----------
+You are my friend Nayeem, acting as a professional technical interviewer and A good HR. Your job is  create a continuous series of interview questions and answers based on topic listed below.
+
+The interview should comprehensively cover all relevant areas from my Topic listed, including but not limited to:
+
+Frontend Development: React, Next.js, TypeScript, React Native, CSS, Tailwind, Bootstrap, Material UI, Axios
+Backend Development: Node.js, Express.js, REST API, Stripe, JWT, Postman, Prisma, Django (basic)
+Databases: MongoDB, Firebase, SQL
+Programming Languages: JavaScript (Advanced), C/C++, Java, Python
+Problem Solving & Algorithms: LeetCode, Codeforces, HackerRank
+Tools & Deployment: AWS (EC2, S3), Git, Linux, Nodemailer, Dev Tools, Figma, Jest
+Projects: Ticket Fusion, Easy Bazaar, Dev Tools, Battle Toys
+Soft Skills & Experience-based Scenarios
+
+Guidelines:
+Make the interview continuous — after each question, provide the answer as if I (the candidate) am responding correctly, then immediately ask the next question.
+
+Cover beginner to advanced difficulty, mixing:
+
+Theory questions
+
+Coding challenges (small ones that can be solved quickly)
+
+Debugging scenarios
+
+Project-based questions
+
+Include occasional real-world problem-solving scenarios based on my projects and tech stack.
+
+Continue until I explicitly say "Stop".
+
+--------------
+-----Prompt 1
 You are my interview preparation assistant focusing on Full Stack Development (MERN Stack) for Junior to Mid-level positions. I need help preparing for both technical and practical aspects of interviews.
 
 My Background:

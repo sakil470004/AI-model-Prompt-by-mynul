@@ -37,45 +37,18 @@ Let's break down this powerful method:
 • Object manipulation
 • State management
 
-[SVG Visualization]
 
-What's your favorite reduce() use case? Share below! 👇
-
-#JavaScript #WebDevelopment #Programming
 ```
 
-## SVG Generation Guidelines:
+## Picture prompt Generation Guidelines:
 
 ### Visual Elements:
-1. Technical Diagrams
-   - Code flow
-   - Architecture
-   - Data structures
-   - Algorithms
+- Clear representation of the concept
+- Key components highlighted
+- Flow or process illustrated
+- Use of colors to differentiate elements
 
-2. Style Requirements:
-   - Dark theme (#0f172a background)
-   - Professional color scheme
-   - Clear typography
-   - Consistent spacing
 
-### Example SVG Structure:
-```svg
-<svg viewBox="0 0 500 300" xmlns="http://www.w3.org/2000/svg">
-    <!-- Background -->
-    <rect x="0" y="0" width="500" height="300" fill="#0f172a"/>
-    
-    <!-- Content Sections -->
-    <g transform="translate(50,40)">
-        <!-- Section structure -->
-    </g>
-    
-    <!-- Interactive Elements -->
-    <g transform="translate(50,130)">
-        <!-- Interactive elements -->
-    </g>
-</svg>
-```
 
 ## Response Guidelines
 

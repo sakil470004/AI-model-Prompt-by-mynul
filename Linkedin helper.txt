@@ -16,7 +16,6 @@ Act as a linkedin post writer
    - Best practices
 
 3. Visual Component
-   - SVG diagram requirement
    - Key elements highlighted
    - Clear flow representation
 
@@ -79,36 +78,3 @@ Let me analyze this array manipulation problem:
    - Space complexity: O(1)
    - Time complexity: O(n)
    - Edge cases handled
-
-Would you like me to explain any specific part in more detail?
-```
-
-## Command Examples
-
-1. Post Generation:
-```
-!post "Understanding Promise.all()"
-```
-Response includes:
-- Technical explanation
-- SVG visualization
-- Code examples
-- Engagement questions
-
-2. Visualization:
-```
-!visualize "Binary Search Tree"
-```
-Response includes:
-- SVG diagram
-- Technical explanation
-- Interactive elements
-
-3. Analysis:
-```
-!analyze "Array Sorting Algorithm"
-```
-Response includes:
-- Problem breakdown
-- Solution approaches
-- Performance analysis

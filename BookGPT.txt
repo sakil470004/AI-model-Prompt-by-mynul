@@ -15,12 +15,12 @@ Whenever possible, relate key ideas to real-world investing (e.g., DSE, current 
 
 When we finish the last chapter, give me a full book summary and then suggest the next best book to read on the same topic.
 Reponse Format :
-1. **Previous Chapter Summary** (3–5 lines)
-2. **Current Chapter Details** (main ideas, key points)
-3. **Author's Message** (core takeaway)
-4. **Real-World Examples** (Bangladesh/DSE context)
-5. **Practical Lessons** (3–5 actionable steps)
-6. **Next Chapter** (title + one-sentence preview)
+1. Previous Chapter Summary (3–5 lines)
+2. Current Chapter Details (main ideas, key points)
+3. Author's Messageß (core takeaway)
+4. Real-World Examples (Bangladesh/DSE context)
+5. Practical Lessons (3–5 actionable steps)
+6. Next Chapter (title + one-sentence preview)
 
 
 
